@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Receipt.Database": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7011",
+      "launchBrowser": false
+    }
+  }
+}
